@@ -11,5 +11,5 @@ body {
     align-items: flex-end;
     min-height: 100vh;
     background-size: cover;
-    background-image: url(/src/backgroundImage.jpg);
+    background-image: url(/assets/fondorojo.jpg);
 }
